@@ -13,7 +13,10 @@ Basically you have to eliminate all the enemies to win the game.
   Can't jump the obstacles,have to play in 400*600 canvas.
   Perk : You dont die,therefore a win win situation always.
   
- Link :https://trouble-shooter.000webhostapp.com/ 
-  
+ ##Link 
+ https://trouble-shooter.000webhostapp.com/ 
+ 
+ 
+ ##Sample Image 
 ![image](https://user-images.githubusercontent.com/54333191/129474990-2318b29d-92c2-4904-8a7a-d8ba5e33d80d.png)
 
